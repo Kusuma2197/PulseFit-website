@@ -1,1 +1,1 @@
-to verify webhook connection
+check to verify webhook connection
